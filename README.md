@@ -1,6 +1,6 @@
-## 🎯 flutter_calli_graphy
+## 🎯 flutter_calligraphy
 ```
-flutter_calli_graphy is a powerful reusable Flutter calligraphy text editor library that allows developers to create dynamic stylish typography UI with drag, scale, rotate and animated text effects.
+flutter_calligraphy is a powerful reusable Flutter calligraphy text editor library that allows developers to create dynamic stylish typography UI with drag, scale, rotate and animated text effects.
 
 It helps developers easily build calligraphy editors, greeting card makers, poster creators and typography based creative applications without writing complex gesture handling, animation logic or custom painter code.
 
