@@ -36,7 +36,7 @@ Add dependency in your pubspec.yaml.
 ```
 dependencies:
   flutter_calligraphy:
-    path: ../flutter_calligraphy
+    path: https://github.com/Excelsior-Technologies-Community/flutter_calligraphy/tree/stage
 ```
 Then run:
 ```
