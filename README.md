@@ -47,9 +47,7 @@ flutter pub get
 
 ## 🎬 Preview
 
-```
-file:///D:/excelsior_technologies/Internship/March_2026/outputs/calligraphy.mp4
-```
+https://github.com/user-attachments/assets/4d46b112-6003-4bad-85bd-45ea57c93ad6
 
 ----
 
