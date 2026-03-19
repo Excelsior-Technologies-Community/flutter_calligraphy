@@ -85,8 +85,7 @@ flutter_calligraphy/
 │ │ └─ utils/
 │ │   └─ export_image.dart
 │ │   // Export canvas to PNG
-│
-├─ example/
+│ │
 │ └─ main.dart
 │ // Demo calligraphy editor app
 │
